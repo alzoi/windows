@@ -6,5 +6,6 @@ Win + R
 temp
 %temp%
 prefetch
+Ctrl + A
 Shift + Delete
 ```
